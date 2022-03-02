@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raskolnikov010
+- 👋 Hi, I’m Isaac Mendes
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python/java
 - 💞️ I’m looking to collaborate as much as I can 
